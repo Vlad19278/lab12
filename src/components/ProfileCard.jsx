@@ -30,7 +30,7 @@ const ProfileCard = () => {
           Опис профілю користувача. Тут можна додати коротку інформацію про себе.
         </Typography>
         
-        {/* Кнопка для вибору фото */}
+        
         <Button variant="contained" component="label" sx={{ mt: 1 }}>
           Завантажити фото
           <input
