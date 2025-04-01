@@ -1,4 +1,4 @@
-import React from "react"; // Має бути тільки один раз!
+import React from "react"; 
 import ProfileCard from "./components/ProfileCard";
 
 function App() {
